@@ -6,13 +6,13 @@
 }
 
 h1 {
-    font-size: 10em;
+    font-size: 16em;
     margin: 0.5%;
 }
   
 img {
     max-width: 100%;
-    min-width: 25em;
+    min-width: 32em;
     width: 100%;
     height: auto;
 }
