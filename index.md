@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: 'https://valientetechnologies.com/'
+redirect: 'https://valiente.com.tr/'
 ---

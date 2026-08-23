@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: 'https://valientetechnologies.com/projects/healthcheck/'
+redirect: 'https://valiente.com.tr/projects/healthcheck/'
 ---
